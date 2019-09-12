@@ -4,6 +4,8 @@ Visualizing movement patterns within public webcam streams.
 
 [Read the Medium post about this little experiment here.](https://medium.com/@ybrouwer/motion-exposures-visualizing-movement-patterns-from-public-webcams-c6e2aeac585e)
 
+![Example of a motion_exposure](/images/motion_exposure_1.png)
+
 ## Getting Started
 
 Download and install [Processing](https://processing.org/)
