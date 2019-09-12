@@ -10,7 +10,7 @@ Download and install [Processing](https://processing.org/)
 
 Install the IPCapture library by [Stefano Baldan](http://www.stefanobaldan.com/projects/ipcapture/)
 
-You can do that easily within Processing by going to Sketch - Import Library - Add Library and searching for IPCapture
+_You can do that easily within Processing by going to Sketch - Import Library - Add Library and searching for IPCapture_
 
 Download my examples and open them in Processing. Have fun!
 
